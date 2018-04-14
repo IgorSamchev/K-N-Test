@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+<athlete name="John Smith" run100="12.61" longJumps="5.0" shotPut="9.22" highJumps="1.5" run400="60.39" run110hurdles="16.43" discusThrow="21.6" poleVault="2.6" javelinThrow="35.81" run1500="325.72" score="4200" place="1" />
+<athlete name="Jaan Lepp" run100="13.75" longJumps="4.84" shotPut="10.12" highJumps="1.5" run400="68.44" run110hurdles="19.18" discusThrow="30.85" poleVault="2.8" javelinThrow="33.88" run1500="382.75" score="3494" place="2-4" />
+<athlete name="Jaan Leps" run100="13.75" longJumps="4.84" shotPut="10.12" highJumps="1.5" run400="68.44" run110hurdles="19.18" discusThrow="30.85" poleVault="2.8" javelinThrow="33.88" run1500="382.75" score="3494" place="2-4" />
+<athlete name="Jaan Lepk" run100="13.75" longJumps="4.84" shotPut="10.12" highJumps="1.5" run400="68.44" run110hurdles="19.18" discusThrow="30.85" poleVault="2.8" javelinThrow="33.88" run1500="382.75" score="3494" place="2-4" />
+<athlete name="Jane Doe" run100="13.04" longJumps="4.53" shotPut="7.79" highJumps="1.55" run400="64.72" run110hurdles="18.74" discusThrow="24.2" poleVault="2.4" javelinThrow="28.2" run1500="410.76" score="3199" place="5-6" />
+<athlete name="Jane Dot" run100="13.04" longJumps="4.53" shotPut="7.79" highJumps="1.55" run400="64.72" run110hurdles="18.74" discusThrow="24.2" poleVault="2.4" javelinThrow="28.2" run1500="410.76" score="3199" place="5-6" />
+<athlete name="Foo Bar" run100="13.43" longJumps="4.35" shotPut="8.64" highJumps="1.5" run400="66.06" run110hurdles="19.05" discusThrow="24.89" poleVault="2.2" javelinThrow="33.48" run1500="411.01" score="3099" place="7" />
+</results>
